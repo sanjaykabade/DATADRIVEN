@@ -48,6 +48,7 @@ public class BankManagerLoginPage extends TestBase
 		   Reporter.log("<a target=\"_blank\" href=\"C:\\Users\\Vaibhav\\Pictures\\Screenshots\\Screenshot (6).png\"><img src=\"C:\\Users\\Vaibhav\\Pictures\\Screenshots\\Screenshot (6).png\" height=200 weight=210></img></a>");
 		 */
 		}
-	
+      //sample for github code	
 	
 }
+
