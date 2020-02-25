@@ -14,7 +14,7 @@ import base.TestBase;
 
 
 public class BankManagerLoginPage extends TestBase
-{    //this is github
+{    //this is github code
 	
         @Test(priority=1)
 		public void loginAsBankManager() throws WebDriverException, IOException, InterruptedException
