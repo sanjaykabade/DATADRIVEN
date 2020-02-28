@@ -34,7 +34,7 @@ public class BankManagerLoginPage extends TestBase
 			log.debug("login successfull!!");
 
 		   //fourcefully failed
-		   //Assert.fail("login not successfull");
+		   Assert.fail("login not successfull");
 		   
 		   /* in customlisteners class when test is failed
 		   Reporter.log("login suceesfully!!");
